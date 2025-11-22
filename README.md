@@ -1,0 +1,3 @@
+This project focuses on predicting heart disease using a dataset sourced from Kaggle. I performed data preprocessing, visualization, and classification analysis using R. Various statistical plots, histograms, ROC curves, and performance metrics were generated with packages such as ggplot2, gridExtra, and ROCR.
+Additionally, multiple machine learning models—especially K-NN—were applied and evaluated through confusion matrices, accuracy scores, sensitivity, specificity, and model optimization.
+This work demonstrates my ability to analyze medical data, build predictive models, and evaluate performance using R.
